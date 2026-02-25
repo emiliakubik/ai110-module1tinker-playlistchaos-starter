@@ -111,3 +111,7 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+## Short summary for week 1 assignment
+
+The core concepts students need to understand is the idea of using copilot as a tool, not as a crutch. If students rely too heavily on AI to get them through this assignment, they will struggle, but if they use on top of their own knowledge, it will make a big difference in effeciency. I think students will most likely struggle in finding an issue because at least for me, a couple of the first "issues" I caught were actually intentional features that did not need fixing. AI was helpful in explaining my questions on certain lines of code, it would not be helpful if you just ask it "what is an issue in this program". One way I would guide a student without giving an answer is by asking questions about functionalities of things and seeing if through answering those questions it can help them carve their own path. 
